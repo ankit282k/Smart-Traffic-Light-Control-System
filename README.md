@@ -21,7 +21,7 @@ A Smart Traffic Light Controller designed to improve traffic flow efficiency and
 | STM32F405RGT6 Microcontroller| 1        |
 | Ultrasonic Sensor (HC-SR04)  | 2        |
 | Traffic Light Module         | 2        |
-| 4-digit 7-segment TM1637 LCD | 1        |
+| 4-digit 7-segment TM1637 LCD | 2        |
 | 4x4 Matrix Keypad            | 1        |
 | Jumper Wires & Breadboard    | -        |
 | 5V Power Supply              | 1        |
