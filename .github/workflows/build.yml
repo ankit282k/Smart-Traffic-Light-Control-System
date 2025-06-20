@@ -1,0 +1,18 @@
+name: Build Firmware
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+      
+      - name: Install ARM Toolchain
+        run: sudo apt install gcc-arm-none-eabi
+
+      - name: Build Project
+        run: make all
