@@ -40,3 +40,9 @@ A Smart Traffic Light Controller designed to improve traffic flow efficiency and
 
 ---
 
+### 👥 Contributors
+Thanks to these amazing people:
+
+[@ankit282k](https://github.com/ankit282k)  
+
+
