@@ -1,0 +1,26 @@
+# STM32CubeIDE files
+*.ioc
+*.launch
+*.log
+*.bin
+*.elf
+*.hex
+*.map
+*.o
+*.d
+*.out
+
+# Build folders
+build/
+Debug/
+Release/
+
+# IDE settings
+.vscode/
+.idea/
+*.swp
+*.bak
+
+# OS files
+.DS_Store
+Thumbs.db
