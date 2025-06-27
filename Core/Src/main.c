@@ -27,10 +27,10 @@
 #define GREEN2_PIN 7
 
 // === Ultrasonic Pins ===
-#define TRIG1_PIN 8   // PB8
-#define ECHO1_PIN 9   // PB9
-#define TRIG2_PIN 12  // PC12
-#define ECHO2_PIN 13  // PC13
+#define TRIG1_PIN 8   // PB8 Sensor 1
+#define ECHO1_PIN 9   // PB9 Sensor 1
+#define TRIG2_PIN 12  // PC12 Sensor 2
+#define ECHO2_PIN 13  // PC13 Sensor 2
 
 // === LED Indicators ===
 #define LED1_PIN 14
